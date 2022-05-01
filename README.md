@@ -5,7 +5,10 @@
 public class About extends Me{
 
     private String[] pronouns = {"He", "Him"};
-    public String[] codeWith = {"Java", "C", "C++"};
+    public String[][] hobby = {
+        {"Playing with my cat 🐈", "her name is Horong"},
+        {"Taking a walk 🚶🏻‍♂️", "and Taking pictures of the scenery"}
+    };
     
     public enum Seminar {
         Git,
