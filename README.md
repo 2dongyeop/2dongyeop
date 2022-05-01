@@ -1,6 +1,6 @@
 ## 😎 Hi ! I'm 2dongyeop
 
-### 🧑🏻‍💻 A litter more about me
+### 🧑🏻‍💻 A little more about me
 ```java
 public class About extends Me{
 
