@@ -1,7 +1,7 @@
 ## 😎 Hi ! I'm 2dongyeop
 
 ### 🧑🏻‍💻 A little more about me
-<img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.jpg" width=320 />
+<img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.jpg" width=300 />
 
 
 ```java
