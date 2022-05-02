@@ -29,7 +29,7 @@ public class About extends Me{
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 
-### 🚀 Technologies & Tools :
+### 🚀 Technologies & Tools (include not good🥲):
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
