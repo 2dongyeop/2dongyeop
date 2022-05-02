@@ -1,9 +1,11 @@
 ## 😎 Hi ! I'm 2dongyeop
 
 ### 🧑🏻‍💻 A little more about me
+<img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.png" width=350 />
+
+
 ```java
 public class About extends Me{
-
     private String[] pronouns = {"He", "Him"};
     public String[][] hobby = {
         {"Playing with my cat 🐈", "her name is Horong"},
