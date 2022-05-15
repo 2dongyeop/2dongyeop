@@ -41,7 +41,12 @@ public class About extends Me{
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-
+### 🗒 I record what I study on my blog and Notion!
+- blog : https://velog.io/@dongvelop
+- Java : https://leedongyeop.notion.site/Java-9d2fc2bcdc144173873f1e196d764c9f
+- Node.js : https://leedongyeop.notion.site/Node-js-1abc80bc3c824b37b3c1e573a62a1a57
+- Network : https://leedongyeop.notion.site/Network-f7dee79e41e343ababc17ca2cd923ef3
+- DataStructure : https://leedongyeop.notion.site/Data-Structure-aa84b41f2e5148369e3092a3809675b2
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2dongyeop&hide=TeX&layout=compact)
