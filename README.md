@@ -42,11 +42,11 @@ public class About extends Me{
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ### 🗒 I record what I study on my blog and Notion!
-- blog : https://velog.io/@dongvelop
-- Java : https://leedongyeop.notion.site/Java-9d2fc2bcdc144173873f1e196d764c9f
-- Node.js : https://leedongyeop.notion.site/Node-js-1abc80bc3c824b37b3c1e573a62a1a57
-- Network : https://leedongyeop.notion.site/Network-f7dee79e41e343ababc17ca2cd923ef3
-- DataStructure : https://leedongyeop.notion.site/Data-Structure-aa84b41f2e5148369e3092a3809675b2
+- [blog](https://velog.io/@dongvelop) : 토이 프로젝트 혹은 개념을 정리한 내용을 업로드합니다.
+- [Java](https://leedongyeop.notion.site/Java-9d2fc2bcdc144173873f1e196d764c9f) : Java에 대한 개념을 정리한 내용 및 코드를 정리하였습니다.
+- [Node.js](https://leedongyeop.notion.site/Node-js-1abc80bc3c824b37b3c1e573a62a1a57) : Node.js를 공부하되, 문법보단 서버에 대한 이해도를 높이는데 노력했습니다.
+- [Network](https://leedongyeop.notion.site/Network-f7dee79e41e343ababc17ca2cd923ef3) : 각각의 계층을 이해하고, 네트워크 용어와 프로토콜을 중심적으로 정리하였습니다.
+- [DataStructure](https://leedongyeop.notion.site/Data-Structure-aa84b41f2e5148369e3092a3809675b2) : 자료구조의 개념을 이해하고, C언어로 작성된 코드를 다른 언어로 바꾸어 작성해봅니다.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2dongyeop&hide=TeX&layout=compact)
