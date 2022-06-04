@@ -13,9 +13,10 @@ public class About extends Me{
     };
     
     public enum Seminar {
+        C,
         Git,
         JAVA,
-        NodeJs,
+        Nodejs,
         Network,
         DataStructure,
     }
