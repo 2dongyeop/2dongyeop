@@ -18,7 +18,8 @@ public class About extends Me{
         JAVA,
         Nodejs,
         Network,
-        DataStructure,
+        Data-structure,
+        Design-pattern,
         Artificial-intelligence,
     }
 }
