@@ -1,7 +1,7 @@
 ## 😎 Hi ! I'm 2dongyeop
 
 ### 🧑🏻‍💻 A little more about me
-<img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong2.jpg" width=225 />
+<img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.jpeg" width=220 />
 
 
 ```Java
@@ -10,7 +10,7 @@ public class About extends Me{
     
     private final void introduce() {
         System.out.println("Depending on the record rather than the memory");
-        System.out.println("My hobby is playing with my cat 🐈, her name is Horong");
+        System.out.println("I usually play with my cat Horong 🐈");
     };
 }
 ```
