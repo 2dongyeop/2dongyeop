@@ -4,46 +4,24 @@
 <img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong2.jpg" width=225 />
 
 
-```java
+```Java
 public class About extends Me{
-    private String[] pronouns = {"He", "Him"};
-    public String[][] hobby = {
-        {"Playing with my cat 🐈", "her name is Horong"},
-        {"Taking a walk 🚶🏻‍♂️", "and Taking pictures of the scenery"}
-    };
+    private final String[] info = {"24", "junior in university"};
     
-    public enum Seminar {
-        C,
-        Git,
-        JAVA,
-        Nodejs,
-        Network,
-        Typescript,
-        Data-structure,
-        Design-pattern,
-        Artificial-intelligence,
-    }
+    private final void introduce() {
+        System.out.println("Depending on the record rather than the memory");
+        System.out.println("My hobby is playing with my cat 🐈, her name is Horong");
+    };
 }
 ```
 ### 🏎 I use daily :
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 💻 What i'll learn :
+### 💻 I'm learning now :
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 
-### 🚀 Technologies & Tools (include not good🥲):
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-\\<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)-->
-![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
 ### 🗒 I record what I study on my blog and Notion!
 - [blog](https://velog.io/@dongvelop) : 토이 프로젝트 혹은 개념을 정리한 내용을 업로드합니다.
