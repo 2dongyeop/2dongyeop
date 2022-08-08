@@ -5,7 +5,7 @@
 
 
 ```Java
-public class About extends Me{
+public class About extends Me {
     private final String[] info = {"24", "junior in university"};
     
     private final void introduce() {
