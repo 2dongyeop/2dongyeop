@@ -25,7 +25,7 @@ public class About extends Me {
 
 ### 🗒 I record what I study on my blog and Notion!
 - [TIL](https://github.com/2dongyeop/TIL) : 공부한 CS 지식들을 정리합니다. 
-- [blog](https://velog.io/@dongvelop) : 토이 프로젝트 혹은 개념을 정리한 내용을 업로드합니다.
+- [blog](https://velog.io/@dongvelop) : 토이 프로젝트와 TroubleShooting을 작성합니다.
 - [Java](https://leedongyeop.notion.site/Java-9d2fc2bcdc144173873f1e196d764c9f) : Java에 대한 개념을 정리한 내용 및 코드를 정리하였습니다.
 - [Nest.js](https://leedongyeop.notion.site/Nest-js-60f24fa6f57c440c894854ae566d8793) : 프레임워크의 동작 방식과 백엔드 개발 지식 및 기술에 대해 학습합니다.
 - [Node.js](https://leedongyeop.notion.site/Node-js-1abc80bc3c824b37b3c1e573a62a1a57) : Node.js를 공부하되, 문법보단 서버에 대한 이해도를 높이는데 노력했습니다.
