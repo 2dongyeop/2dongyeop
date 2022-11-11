@@ -1,18 +1,28 @@
-## 😎 Hi ! I'm 2dongyeop
+## Hi ! I'm 2dongyeop
 
 ### 🧑🏻‍💻 A little more about me
 <img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.jpeg" width=220 />
 
 
 ```Java
-public class About extends Me {
-    private final String[] info = {"24", "junior in university"};
+public class IntroduceTest {
+    private enum Introduce {
+        LEE_DONG_YEOP, JAVA_DEVELOPER, I_LOVE_MY_CAT_HORONG,
+    }
     
-    private final void introduce() {
-        System.out.println("Depending on the record rather than the memory");
-        System.out.println("I usually play with my cat Horong 🐈");
-    };
+    LeeDongyeop leeDongyeop;
+
+    @BeforeEach
+    public void beforeEach() {
+        leeDongyeop = new LeeDongyeop("JAVA");
+    }
+    
+    @AfterEach()
+    public void afterEach() {
+        leedongyeop.clear();
+    }
 }
+
 ```
 ### 🏎 I use daily :
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
