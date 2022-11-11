@@ -15,12 +15,10 @@ public class About extends Me {
 }
 ```
 ### 🏎 I use daily :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### 💻 I'm learning now :
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
- <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 
 ### 🗒 I record what I study on my blog and Notion!
