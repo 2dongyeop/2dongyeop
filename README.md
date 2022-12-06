@@ -41,7 +41,8 @@ public class IntroduceTest {
 - [Typescript](https://github.com/2dongyeop/typescript-fundamental) : Nest.js를 공부하기 전, 기본적인 문법과 자바스크립트에서 추가된 기능을 알아봅니다.
 - [DataStructure](https://leedongyeop.notion.site/Data-Structure-aa84b41f2e5148369e3092a3809675b2) : 자료구조의 개념을 이해하고, C언어로 작성된 코드를 다른 언어로 바꾸어 작성해봅니다.
 - [Design-Pattern](https://github.com/2dongyeop/design-pattern) : 여러 패턴들을 공부하며, Java를 이용하여 코드를 작성할 때 필요한 사고력을 기릅니다.
-- [Beakjoon](https://github.com/2dongyeop/baekjoon) / [Programmers](https://github.com/2dongyeop/programmers) : 알고리즘 문제 풀이를 통해 코드 작성 능력을 키웁니다.
+- [Beakjoon](https://github.com/2dongyeop/baekjoon) / [Programmers](https://github.com/2dongyeop/programmers) : 알고리즘 문제 풀이를 통해 코딩 테스트를 대비하고, 실제 코드 작성 능력을 기릅니다. 
+- [Modern-Java-in-Action](https://leedongyeop.notion.site/Modern-Java-in-Action-9642885c8e094515a1b66f73ab7fd0da) : Java 8의 람다식, 스트림 등의 문법을 사용할 수 있도록 학습합니다.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2dongyeop&hide=TeX&layout=compact)
