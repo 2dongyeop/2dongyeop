@@ -10,7 +10,7 @@ public class IntroduceTest {
         LEE_DONG_YEOP, JAVA_DEVELOPER, I_LOVE_MY_CAT_HORONG,
     }
     
-    LeeDongyeop leeDongyeop;
+    private final LeeDongyeop leeDongyeop;
 
     @BeforeEach
     public void beforeEach() {
