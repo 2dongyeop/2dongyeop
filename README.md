@@ -1,41 +1,25 @@
 ## Hi ! I'm 2dongyeop
 
 ### 🧑🏻‍💻 A little more about me
+<img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.jpeg" width=220 />
 
 ```Java
+@Component
+@RequiredArgsConstructor
 public class Introduction {
 
     private final LeeDongyeop leeDongyeop;
     
-    @Autowired
-    public void Introduction() {
-        leeDongyeop = LeeDongyeop.getInstance();
-        
-        leeDongyeop.logic();
+    @PostConstruct
+    private void init() {
+        System.out.println("Hi! I have consistency and habit of recording.");
+        System.out.println("I'm interested in web development using Spring.");
+        System.out.print("I'm learning about lambda and stream in Java 8 grammar!");
     }
-
-    static class LeeDongyeop {
-
-        private final String skill;
-        private static LeeDongyeop leeDongyeop = new LeeDongyeop("Java");
-
-        private LeeDongyeop(String skill) {
-            this.skill = skill;
-        }
-
-        public static LeeDongyeop getInstance() {
-            return leeDongyeop;
-        }
-
-        public void clear() {
-            System.out.println("I'm looking for a job. Please contact me!");
-        }
-        
-        public void logic() {
-            System.out.println("My main specialty is consistency and habit of recording.");
-            System.out.println("I'm interested in web development using Spring");
-            System.out.println("and learning intensively about lambda and streams Java 8 grammar!");
-        }
+    
+    @PreDestroy
+    public void close() {
+        System.out.println("Thank you for visiting. Look at my cute cat.");
     }
 }
 
@@ -47,8 +31,6 @@ public class Introduction {
 - Spring을 이용한 웹 개발에 관심이 있고, Java 8 문법 중 람다와 스트림에 대해 집중적으로 학습 중입니다! 
 
 <br/>
-
-<img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.jpeg" width=220 />
 
 ### 🗒 I record what I study on my blog and Notion! 
 - [TIL](https://github.com/2dongyeop/TIL) : 공부한 CS 지식들을 정리합니다. 
