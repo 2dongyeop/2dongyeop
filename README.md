@@ -35,8 +35,8 @@ public class Introduction {
         
         public void logic() {
             System.out.println("My main specialty is consistency and habit of recording.");
-            System.out.println("I'm interested in web development using Spring, 
-                and I'm learning intensively about lambda and streams among Java 8 grammar!");
+            System.out.println("I'm interested in web development using Spring");
+            System.out.println("and learning intensively about lambda and streams Java 8 grammar!");
         }
     }
 }
