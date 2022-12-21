@@ -5,21 +5,39 @@
 
 
 ```Java
-public class IntroduceTest {
-    private enum Introduce {
-        LEE_DONG_YEOP, JAVA_DEVELOPER, I_LOVE_MY_CAT_HORONG,
-    }
-    
-    private final LeeDongyeop leeDongyeop;
+public class Introduction {
 
-    @BeforeEach
-    public void beforeEach() {
-        leeDongyeop = new LeeDongyeop("JAVA");
-    }
+    private final LeeDongyeop leeDongyeop;
     
-    @AfterEach()
-    public void afterEach() {
-        leedongyeop.clear();
+    @Autowired
+    public void Introduction() {
+        leeDongyeop = LeeDongyeop.getInstance();
+        
+        leeDongyeop.logic();
+    }
+
+    static class LeeDongyeop {
+
+        private final String skill;
+        private static LeeDongyeop leeDongyeop = new LeeDongyeop("Java");
+
+        private LeeDongyeop(String skill) {
+            this.skill = skill;
+        }
+
+        public static LeeDongyeop getInstance() {
+            return leeDongyeop;
+        }
+
+        public void clear() {
+            System.out.println("I'm looking for a job. Please contact me!");
+        }
+        
+        public void logic() {
+            System.out.println("My main specialty is consistency and habit of recording.");
+            System.out.println("I'm interested in web development using Spring, 
+                and I'm learning intensively about lambda and streams among Java 8 grammar!");
+        }
     }
 }
 
@@ -28,7 +46,7 @@ public class IntroduceTest {
 <br/>
 
 ### 💻 I'm learning now :
-- Java 8 문법 중 람다와 스트림에 대해 집중적으로 학습하고, Spring을 이용한 웹 개발에 관심이 있습니다!
+- Spring을 이용한 웹 개발에 관심이 있고, Java 8 문법 중 람다와 스트림에 대해 집중적으로 학습 중입니다! 
 
 <br/>
 
