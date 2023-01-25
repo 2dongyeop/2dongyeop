@@ -14,7 +14,7 @@ public class Introduction {
     private void init() {
         System.out.println("Hi! I have consistency and habit of recording.");
         System.out.println("I'm interested in web development using Spring.");
-        System.out.print("I'm learning about lambda and stream in Java 8 grammar!");
+        System.out.print("I'm learning about Stream and Optional in Java 8");
     }
     
     @PreDestroy
