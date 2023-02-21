@@ -38,4 +38,6 @@ public class Introduction {
 - [Notion](https://www.notion.so/leedongyeop/Dongvelop-s-Notion-ver-2aa4b1990311424789421e0c3cae453e) : 모든 학습 내용을 기록하는 습관을 들입니다.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2dongyeop&hide=TeX&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2dongyeop&hide=TeX&layout=compact) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=2dongyeop&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
