@@ -39,5 +39,5 @@ public class Introduction {
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2dongyeop&hide=TeX&layout=compact) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=2dongyeop&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=2dongyeop&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
