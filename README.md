@@ -40,3 +40,5 @@ public class Introduction {
 - [Notion](https://www.notion.so/leedongyeop/Dongvelop-s-Notion-ver-2aa4b1990311424789421e0c3cae453e) : 포트폴리오 및 개발 서적 내용을 작성합니다.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=2dongyeop&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dongvelop)](https://velog.io/@dongvelop) 
