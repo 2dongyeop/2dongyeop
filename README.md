@@ -20,7 +20,7 @@
 <br/>
 
 ### 🗒 Learn more about me
-- [LinkedIn](https://www.linkedin.com/in/2dongyeop/), [Portfolio](https://www.notion.so/leedongyeop/2-ab17ef333a9943e8b65ccb4d789db361), [Velog](https://velog.io/@dongvelop), [TIL](https://github.com/2dongyeop/TIL), [Notion](https://www.notion.so/leedongyeop/Dongvelop-s-Notion-ver-2aa4b1990311424789421e0c3cae453e)
+- [LinkedIn](https://www.linkedin.com/in/2dongyeop/), [Resume](https://www.notion.so/leedongyeop/2-ab17ef333a9943e8b65ccb4d789db361), [Velog](https://velog.io/@dongvelop), [TIL](https://github.com/2dongyeop/TIL)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=2dongyeop&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
