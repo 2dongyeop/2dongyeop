@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/2dongyeop/2dongyeop/blob/main/horong.jpeg" width=220 />
 
 - Java & Spring Boot 기반의 서버 개발자로 의료 서비스 스타트업에서 2년째 근무 중입니다.
-- [LinkedIn](https://www.linkedin.com/in/2dongyeop/), [Resume](https://www.notion.so/leedongyeop/_-_-_-18978399c22680198ac0fe69f1fccd25#18978399c22680d1b271f8631f142c54), [Velog](https://velog.io/@dongvelop), [TIL](https://github.com/2dongyeop/TIL)
+- [LinkedIn](https://www.linkedin.com/in/2dongyeop/), [Resume](https://www.notion.so/leedongyeop/_-_-_-18b78399c226809e90bef7f3ede3ee1d), [Velog](https://velog.io/@dongvelop), [TIL](https://github.com/2dongyeop/TIL)
 
 <br/>
 
